@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="target/generated-sources/antlr4"/>
+	<classpathentry kind="lib" path="C:/Users/Ayoub/Dev_12042020/tools/jars/antlr-4.8-complete.jar" sourcepath="/Java/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
